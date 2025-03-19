@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaushev-sergey) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@WebTestingPro) [![Stepic](https://img.shields.io/badge/Stepic%2C%20https%3A%2F%2Fstatic.tildacdn.com%2Ftild3730-3463-4331-a665-656365633837%2Fstepik_logotype_green.png)](https://behance.net/https://stepik.org/a/209537)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaushev-sergey) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@WebTestingPro) 
 
 
 
